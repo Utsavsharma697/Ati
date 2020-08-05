@@ -1,0 +1,12 @@
+{
+  "name": "Ati",
+  "displayName": "Ati",
+  "expo": {
+    "name": "Ati",
+    "slug": "Ati",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
